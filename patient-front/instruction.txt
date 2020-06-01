@@ -1,0 +1,8 @@
+
+1. Npm install
+
+npm install
+
+2. Start server at port 3000 
+
+npm start

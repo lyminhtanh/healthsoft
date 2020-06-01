@@ -1,0 +1,9 @@
+We can run our goals like this for the Unix system (or GitBash on Windows for ease):
+
+1. Maven install
+
+./mvnw clean install
+
+2. Start Spring-Boot project on port 8080:
+
+./mvnw spring-boot:run
